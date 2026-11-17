@@ -5,7 +5,9 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/dursamiii?tab=repositories">All repositories</a>
 </p>
+
 ---
+
 ## Projects
 
 | Project | Description | Status |
