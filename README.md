@@ -1,14 +1,11 @@
 <h1 align="center">dursamiii</h1>
-<p align="center">Software projects, text processing, and data from the web.</p>
-
+<p align="center">Tech Hobbyist</p>
 <p align="center">
   <a href="https://github.com/dursamiii">GitHub</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/dursamiii?tab=repositories">All repositories</a>
 </p>
-
 ---
-
 ## Projects
 
 | Project | Description | Status |
@@ -22,6 +19,8 @@
 | [Data OpenAI Auto Labeling Sentimen](https://github.com/dursamiii/data-openai-auto-labeling-sentimen) | Sentiment labeling with the OpenAI API. | **Coursework** |
 | [Google Maps Reviews Crawling](https://github.com/dursamiii/google-maps-reviews-crawling) | Google Maps review crawler that saves results to CSV. | **Coursework** |
 | [X Crawling dan Preprocessing](https://github.com/dursamiii/x-crawling-dan-preprocessing) | X data collection and text preprocessing. | **Coursework** |
+
+<sub>the status labels describe each project's current role: active work, prototype, coursework, or archived experiment</sub>
 
 ## Learned and used
 
@@ -45,4 +44,3 @@
 
 ---
 
-<sub>Status labels describe each project's current role: active work, prototype, coursework, or archived experiment.</sub>
