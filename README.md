@@ -9,45 +9,40 @@
 
 ---
 
-## Software projects
+## Projects
 
-- <b>Desktop and web applications</b>
-  - [Photos-Organizer](https://github.com/dursamiii/Photos-Organizer) — Photo management app with a TypeScript interface and Python gallery engine.
-  - [Kukis Hub](https://github.com/dursamiii/kukis-hub) — TypeScript web project.
-  - [AURA Weather Hub](https://github.com/dursamiii/aura-weather-hub) — Weather-focused TypeScript web project.
-  - [PostMulu](https://github.com/dursamiii/PostMulu) — Small social media project built with Flask, SQLAlchemy, and PostgreSQL.
-
-- <b>Backend development</b>
-  - [Gallery Backend Prototype](https://github.com/dursamiii/gallery-backend-prototype) — Gallery backend prototype with API and worker components.
-  - [Belajar FastAPI](https://github.com/dursamiii/belajar-FastAPI) — FastAPI practice project.
-
-- <b>Text processing and data collection</b>
-  - [Data OpenAI Auto Labeling Sentimen](https://github.com/dursamiii/data-openai-auto-labeling-sentimen) — Sentiment labeling with the OpenAI API.
-  - [Google Maps Reviews Crawling](https://github.com/dursamiii/google-maps-reviews-crawling) — Google Maps review crawler that saves results to CSV.
-  - [X Crawling dan Preprocessing](https://github.com/dursamiii/x-crawling-dan-preprocessing) — X data collection and text preprocessing.
+| Project | Description | Status |
+| --- | --- | --- |
+| [Photos-Organizer](https://github.com/dursamiii/Photos-Organizer) | Desktop photo management app with a TypeScript interface and Python gallery engine. | **Active** |
+| [Gallery Backend Prototype](https://github.com/dursamiii/gallery-backend-prototype) | Gallery backend prototype with API and worker components. | **Prototype** |
+| [Kukis Hub](https://github.com/dursamiii/kukis-hub) | TypeScript web project. | **Prototype** |
+| [AURA Weather Hub](https://github.com/dursamiii/aura-weather-hub) | Weather-focused TypeScript web project. | **Prototype** |
+| [PostMulu](https://github.com/dursamiii/PostMulu) | Small social media project built with Flask, SQLAlchemy, and PostgreSQL. | **Archived** |
+| [Belajar FastAPI](https://github.com/dursamiii/belajar-FastAPI) | FastAPI practice project. | **Coursework** |
+| [Data OpenAI Auto Labeling Sentimen](https://github.com/dursamiii/data-openai-auto-labeling-sentimen) | Sentiment labeling with the OpenAI API. | **Coursework** |
+| [Google Maps Reviews Crawling](https://github.com/dursamiii/google-maps-reviews-crawling) | Google Maps review crawler that saves results to CSV. | **Coursework** |
+| [X Crawling dan Preprocessing](https://github.com/dursamiii/x-crawling-dan-preprocessing) | X data collection and text preprocessing. | **Coursework** |
 
 ## Learned and used
 
-- Python
-- TypeScript
-- JavaScript
-- React
-- Electron
-- FastAPI
-- Flask
-- SQLAlchemy
-- PostgreSQL
-- Playwright
-- OpenAI API
+- [x] Python
+- [x] TypeScript
+- [x] JavaScript
+- [x] React
+- [x] Electron
+- [x] FastAPI
+- [x] Flask
+- [x] SQLAlchemy
+- [x] PostgreSQL
+- [x] Playwright
+- [x] OpenAI API
 
 ## Exploring
 
-- Kotlin
-- Tauri
-- Cybersecurity
+- [ ] Kotlin
+- [ ] Tauri
+- [ ] Cybersecurity
 
-## Cybersecurity project ideas
+---
 
-- Build a home-lab environment for cybersecurity practice
-- Create a log analyzer for suspicious login activity
-- Build a basic vulnerability scanner for a local test app
+<sub>Status labels describe each project's current role: active work, prototype, coursework, or archived experiment.</sub>
